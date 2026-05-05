@@ -83,6 +83,7 @@ npm start
 * Advanced notification system (Email/SMS)
 * Real-time tracking features
 * Enhanced analytics and reporting
+* Implementing AI for more accurate results of the images captured.
 
 ---
 

@@ -95,5 +95,5 @@ npm start
 
 ## **Note**
 
-This project was developed as part of academic requirements for the Bachelor of Computer Applications (BCA) program,kindly refer to the abstract docx and screenshots folder provided for more details about the SSMS website.
+This project was developed as part of my final year academic requirements for the Bachelor of Computer Applications (BCA) program,kindly refer to the abstract docx and screenshots folder provided for more details about the SSMS website.
 
